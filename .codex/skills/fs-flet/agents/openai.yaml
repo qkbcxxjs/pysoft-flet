@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flet PyInstaller 排查"
+  short_description: "排查 Flet 桌面应用的打包资源、图标与布局问题"
+  default_prompt: "Use $fs-flet to diagnose and fix Flet PyInstaller packaging issues."

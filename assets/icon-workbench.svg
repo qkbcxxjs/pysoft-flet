@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <path d="M88,15H12c-1.1,0-2,.9-2,2v46c0,1.1.9,2,2,2h76c1.1,0,2-.9,2-2V17c0-1.1-.9-2-2-2ZM84.4,58.34c0,.92-.74,1.66-1.66,1.66H17.26c-.92,0-1.66-.74-1.66-1.66V21.66c0-.92.74-1.66,1.66-1.66h65.48c.92,0,1.66.74,1.66,1.66v36.68Z"
+          style="fill: #000;"/>
+    <path d="M30,84.5c11.2-7.94,28.8-7.94,40,0,.24.17.65.44.38.82-.09.12-.23.18-.38.18l-5-.24-5-.14c-9.91-.19-20.09-.16-30,.38-.42.04-.63-.55-.28-.79,0,0,.28-.21.28-.21h0Z"
+          style="fill: #000;"/>
+    <polygon points="51.07 65 53.67 79.33 50.5 79.33 50.5 80 49.5 80 49.5 79.33 46.33 79.33 48.93 65 51.07 65 51.07 65"
+             style="fill: #000;"/>
+    <rect x="25.5" y="33" width="10" height="25" style="fill: #000;">
+        <animate attributeName="height"
+                 values="25;33;25"
+                 keyTimes="0;0.5;1"
+                 dur="2s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+        <animate attributeName="y"
+                 values="33;25;33"
+                 keyTimes="0;0.5;1"
+                 dur="2s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+    </rect>
+    <rect x="38.5" y="28" width="10" height="30" style="fill: #000;">
+        <animate attributeName="height"
+                 values="30;20;30"
+                 keyTimes="0;0.5;1"
+                 dur="1.5s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+        <animate attributeName="y"
+                 values="28;38;28"
+                 keyTimes="0;0.5;1"
+                 dur="1.5s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+    </rect>
+    <rect x="51.5" y="40" width="10" height="18" style="fill: #000;">
+        <animate attributeName="height"
+                 values="18;35;18"
+                 keyTimes="0;0.5;1"
+                 dur="3.2s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+        <animate attributeName="y"
+                 values="40;23;40"
+                 keyTimes="0;0.5;1"
+                 dur="3.2s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+    </rect>
+    <rect x="64.5" y="22" width="10" height="36" style="fill: #000;">
+        <animate attributeName="height"
+                 values="36;5;36"
+                 keyTimes="0;0.5;1"
+                 dur="4s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+        <animate attributeName="y"
+                 values="22;53;22"
+                 keyTimes="0;0.5;1"
+                 dur="4s"
+                 repeatCount="indefinite"
+                 calcMode="spline"
+                 keySplines="0.1 0.8 0.2 1;0.1 0.8 0.2 1"/>
+    </rect>
+</svg>

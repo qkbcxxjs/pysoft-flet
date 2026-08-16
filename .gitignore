@@ -1,0 +1,7 @@
+.venv
+qkbc_merchant_data
+readme
+.idea
+build
+dist
+*.spec
